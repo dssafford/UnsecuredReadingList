@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnsecuredReadingList.iml" filepath="$PROJECT_DIR$/.idea/modules/UnsecuredReadingList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnsecuredReadingList_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UnsecuredReadingList_main.iml" group="UnsecuredReadingList" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnsecuredReadingList_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UnsecuredReadingList_test.iml" group="UnsecuredReadingList" />
+    </modules>
+  </component>
+</project>
